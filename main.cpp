@@ -117,9 +117,9 @@ fish.drown();
  action 2:  tanks drive
  action 3:  tanks rotate
  */
-tank.fireMissiles();
-tank.drive();
-tank.rotate();
+tanks.fireMissiles();
+tanks.drive();
+tanks.rotate();
 
 /*
  9)
