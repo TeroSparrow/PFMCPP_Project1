@@ -35,89 +35,113 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      dog
+ action 1:  dog barks
+ action 2:  dog runs
+ action 3:  dog plays fetch
  */
-
+dog.bark();
+dog.run();
+dog.playFetch();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      shield
+ action 1:  shield fortifies 
+ action 2:  shield blocks attacks
+ action 3:  shield protects
  */
+shield.fortify();
+shield.blockAttack();
+shield.protect();
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      car
+ action 1:  car drives
+ action 2:  car stops
+ action 3:  car accelerates
  */
-
+car.drive();
+car.stop();
+car.accelerate();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      oven
+ action 1:  oven heats up
+ action 2:  oven cooks
+ action 3:  oven explodes
  */
+oven.heatUp();
+oven.cook();
+oven.explode();
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      bee
+ action 1:  bee works
+ action 2:  bee collects honey
+ action 3:  bee makes nest
  */
-
+bee.work();
+bee.collectHoney();
+bee.makeNest();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      ball
+ action 1:  ball bounces
+ action 2:  ball flies
+ action 3:  ball rolls
  */
+ball.bounce();
+ball.fly();
+ball.roll();
 
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      fish
+ action 1:  fish swim
+ action 2:  fish lay eggs
+ action 3:  fish drown
  */
-
+fish.swim();
+fish.layEggs();
+fish.drown();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      tanks
+ action 1:  tanks fire missiles
+ action 2:  tanks drive
+ action 3:  tanks rotate
  */
+tanks.fireMissiles();
+tanks.drive();
+tanks.rotate();
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      bird
+ action 1:  bird sings
+ action 2:  bird flies
+ action 3:  bird hunts
  */
-
+bird.sing();
+bird.fly();
+bird.hunt();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:      bear
+ action 1:  bear growls
+ action 2:  bear eats honey
+ action 3:  bear hibernates
  */
-
+bear.growl();
+bear.eatHoney();
+bear.hibernate();
 
 #endif
 
